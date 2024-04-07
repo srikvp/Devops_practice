@@ -1,2 +1,2 @@
 # Devops_practice
-Repo for devops practice. Oct batch
+Repo for devops practice.
